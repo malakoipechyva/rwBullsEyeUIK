@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E3BE704F24164D2000FA34F7 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3BE704E24164D2000FA34F7 /* AboutViewController.swift */; };
+		E3BE7051241668FD00FA34F7 /* AboutTheAuthorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3BE7050241668FD00FA34F7 /* AboutTheAuthorViewController.swift */; };
 		E3D8D8D32410FE8000617A97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D8D8D22410FE8000617A97 /* AppDelegate.swift */; };
 		E3D8D8D52410FE8000617A97 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D8D8D42410FE8000617A97 /* SceneDelegate.swift */; };
 		E3D8D8D72410FE8000617A97 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D8D8D62410FE8000617A97 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E3BE704E24164D2000FA34F7 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		E3BE7050241668FD00FA34F7 /* AboutTheAuthorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutTheAuthorViewController.swift; sourceTree = "<group>"; };
 		E3D8D8CF2410FE8000617A97 /* BullsEyeUIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEyeUIKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3D8D8D22410FE8000617A97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3D8D8D42410FE8000617A97 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				E3D8D8D42410FE8000617A97 /* SceneDelegate.swift */,
 				E3D8D8D62410FE8000617A97 /* ViewController.swift */,
 				E3D8D8D82410FE8000617A97 /* Main.storyboard */,
+				E3BE704E24164D2000FA34F7 /* AboutViewController.swift */,
+				E3BE7050241668FD00FA34F7 /* AboutTheAuthorViewController.swift */,
 				E3D8D8DB2410FE8000617A97 /* Assets.xcassets */,
 				E3D8D8DD2410FE8000617A97 /* LaunchScreen.storyboard */,
 				E3D8D8E02410FE8100617A97 /* Info.plist */,
@@ -140,6 +146,8 @@
 			files = (
 				E3D8D8D72410FE8000617A97 /* ViewController.swift in Sources */,
 				E3D8D8D32410FE8000617A97 /* AppDelegate.swift in Sources */,
+				E3BE704F24164D2000FA34F7 /* AboutViewController.swift in Sources */,
+				E3BE7051241668FD00FA34F7 /* AboutTheAuthorViewController.swift in Sources */,
 				E3D8D8D52410FE8000617A97 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
